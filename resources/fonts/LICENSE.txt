@@ -1,0 +1,12 @@
+Pebble Dot 16x20
+
+Latin letters, digits and symbols: custom pixel designs for this project.
+Kana: adapted from Misaki Gothic 2nd, Num Kadoma / Little Limit.
+Source: https://littlelimit.net/misaki.htm
+Original font license: https://littlelimit.net/font.htm
+
+These fonts are free software.
+Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+
+The same permissions apply to the additional glyph designs in this package.

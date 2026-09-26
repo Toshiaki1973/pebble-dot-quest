@@ -1,0 +1,32 @@
+{
+  "name": "pebble-dot-quest",
+  "author": "Toshiaki1973",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Dot Quest",
+    "uuid": "775d412e-3454-466d-8cb0-8e299c5d0c0b",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": ["flint"],
+    "watchapp": { "watchface": true },
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "FONT_PEBBLE_DOT_20",
+          "file": "fonts/PebbleDot16x20-Regular.ttf",
+          "characterRegex": "[ -@A-Z\\[\\]_ぁ-ゖァ-ヶ、。「」・ー　]"
+        },
+        {
+          "type": "font",
+          "name": "FONT_PEBBLE_DOT_40",
+          "file": "fonts/PebbleDot16x20-Regular.ttf",
+          "characterRegex": "[0-9:]"
+        }
+      ]
+    }
+  }
+}
